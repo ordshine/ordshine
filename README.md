@@ -1,4 +1,4 @@
-[[[### 👋 你好呀
+### 👋 你好呀
 ### This is ordshine Github!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ordshine)
